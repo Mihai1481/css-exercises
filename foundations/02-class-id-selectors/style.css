@@ -1,0 +1,17 @@
+#number2{
+    font-size: 40px;
+    color: blue;
+}
+
+#number4{
+    font-weight: bold;
+    background-color: greenyellow;
+}
+
+.class{
+background-color: pink;
+}
+
+.class.font{
+font-size: 30px;
+}
